@@ -1,2 +1,2 @@
-# hello-world
-Hello world new project template.
+# CocosCreator-LearnCocosCreatorMenu
+เป็น project สำหรับศึกษาการทำ menu ใน Cocos Creator
