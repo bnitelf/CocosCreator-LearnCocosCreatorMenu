@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "bc9e6b94-d4f8-4ff4-b545-8c50ee3eeead",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "emperor_chicks": {
+      "ver": "1.0.3",
+      "uuid": "7ad1d7a8-a62f-41ef-8440-cac7dc67fd9f",
+      "rawTextureUuid": "bc9e6b94-d4f8-4ff4-b545-8c50ee3eeead",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 800,
+      "height": 600,
+      "rawWidth": 800,
+      "rawHeight": 600,
+      "borderTop": 171,
+      "borderBottom": 105,
+      "borderLeft": 242,
+      "borderRight": 276,
+      "subMetas": {}
+    }
+  }
+}
